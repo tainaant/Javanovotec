@@ -6,7 +6,7 @@ resultado na tela.
  */
 import java.util.Scanner;
 
-public class Exercicio01 {
+public class Taina_Exercicio01 {
     public static void main(String[] arg) {
         Scanner insira = new Scanner(System.in);
 
