@@ -10,7 +10,7 @@ d. 65 anos para cima = Idoso;
  */
 import java.util.Scanner;
 
-public class Exercicio05 {
+public class Taina_Exercicio05 {
     public static void main(String[] args) {
         Scanner insira = new Scanner(System.in);
 
