@@ -6,7 +6,7 @@ inserido pelo usuário para dólar.
  */
 import java.util.Scanner;
 
-public class Exercicio03 {
+public class Taina_Exercicio03 {
     public static void main(String[] args) {
         Scanner insira = new Scanner(System.in);
 
