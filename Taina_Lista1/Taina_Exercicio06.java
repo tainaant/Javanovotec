@@ -6,7 +6,7 @@ pelo usuário. (Perímetro = 2π * r)
 
 import java.util.Scanner;
 
-public class Exercicio06 {
+public class Taina_Exercicio06 {
     public static void main(String[] args) {
         Scanner insira = new Scanner(System.in);
 
