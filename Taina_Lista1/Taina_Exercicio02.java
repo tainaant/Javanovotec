@@ -6,7 +6,7 @@ um (número²); some todos os valores e mostre o resultado;
  */
 import java.util.Scanner;
 
-public class Exercicio02 {
+public class Taina_Exercicio02 {
     public static void main(String[] arg) {
         Scanner insira = new Scanner(System.in);
 
